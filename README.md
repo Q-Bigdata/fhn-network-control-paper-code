@@ -1,5 +1,7 @@
 # FitzHugh–Nagumo Network Control
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23074655.svg)](https://doi.org/10.5281/zenodo.23074655)
+
 This repository contains the reproducible Python implementation accompanying the paper on dimensionality reduction and collective control in FitzHugh–Nagumo networks.
 
 ## Overview
@@ -40,4 +42,8 @@ The code records run parameters and uses fixed seeds for the shared benchmark ne
 
 ## Citation
 
-When using this code, please cite the accompanying paper and the versioned software record associated with this repository. The version history is maintained through GitHub Releases and archived on Zenodo.
+When using this code, please cite the accompanying paper and the versioned software record:
+
+- GitHub repository: https://github.com/Q-Bigdata/fhn-network-control-paper-code
+- Zenodo DOI: https://doi.org/10.5281/zenodo.23074655
+- GitHub release: https://github.com/Q-Bigdata/fhn-network-control-paper-code/releases/tag/v1.0.1-publication
